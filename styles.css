@@ -1,0 +1,28 @@
+p{
+    font-size: 35px;
+    color: blue;
+    font-weight: bold;
+}
+
+div p{
+    font-size: 25px;
+    color: black;
+}
+
+h1{
+    font-size: 70px;
+    color: yellow;
+    background-color: black;
+}
+
+h2{
+    font-size: 40px;
+    color: black;
+    background-color: black;
+}
+
+h3{
+    font-size: 35px;
+    color: black;
+    background-color: yellow;
+}
